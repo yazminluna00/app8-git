@@ -19,7 +19,7 @@ $(document).ready(function(e) {
 			navigator.notification.vibrate(1000);
 			break;
 		}
-	},"Aplicacion7","Beep,Vibrar","Cancelar");
+	},"Aplicacion7","Beep,Vibrar,Cancelar");
 				
 });
 	},false);
